@@ -4,7 +4,7 @@ A complete Hybrid Test Automation Framework built using Selenium WebDriver + Jav
 This project demonstrates industry-level automation architecture following best practices such as Page Object Model (POM), TestNG Listeners, Data-Driven Testing, centralized utilities, and scalable execution with Selenium Grid + Jenkins Pipeline.
 
 ## Tech Stack
-Java 17
+Java 21
 
 - Selenium WebDriver 4
 
@@ -127,6 +127,7 @@ docker/
  └── docker-compose.yml
 ```
 ## Run Full CI/CD Pipeline in Jenkins
+
 The Jenkinsfile supports:
     1. Start Docker Selenium Grid
     2. Checkout project
