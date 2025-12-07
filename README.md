@@ -128,7 +128,6 @@ docker/
 ```
 ## Run Full CI/CD Pipeline in Jenkins
 The Jenkinsfile supports:
-
     1. Start Docker Selenium Grid
     2. Checkout project
     3. Parallel UI/API/DB tests
