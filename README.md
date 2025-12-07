@@ -132,7 +132,7 @@ The Jekinsfile supports:
     2. Checkout project
     3. Parallel UI/API/DB tests
     4. Store reports
-    5. Email build statu
+    5. Email build status.
 
 To trigger:
   1. Create a Pipeline Job
