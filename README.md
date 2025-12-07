@@ -127,12 +127,12 @@ docker/
  └── docker-compose.yml
 ```
 ## Run Full CI/CD Pipeline in Jenkins
-The Jenkinsfile supports:
+The Jekinsfile supports:
     1. Start Docker Selenium Grid
     2. Checkout project
     3. Parallel UI/API/DB tests
     4. Store reports
-    5. Email build status
+    5. Email build statu
 
 To trigger:
   1. Create a Pipeline Job
